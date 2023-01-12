@@ -2,7 +2,7 @@
 :root {
   --bg: rgba(16, 16, 16, 0.986);
   --txtClr: rgb(229, 219, 212);
-  --secondaryClr: rgb(239, 145, 44);
+  --secondaryClr: rgb(221, 137, 46);
 }
 *::before,
 *::after,
@@ -25,7 +25,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between    ;
-  height: 90px;
+  height: 80px;
   padding: 0 2rem;
   background-color: var(--bg);
 }
